@@ -1,17 +1,17 @@
 
 Minha api que permite você ultilizar uma IA em seus projetos, no caso aqui fica a Documentação
 
-#API de IA
+# API de IA
 
-#Documentação da API Redz IA
+# Documentação da API Redz IA
 
 A API Redz IA permite utilizar uma inteligência artificial através de requisições HTTP.
 
-#Aviso
+# Aviso
 
 O sistema de chaves ainda está em desenvolvimento e pode apresentar alguns erros ocasionais. Caso encontre algum problema, entre em contato comigo pelo WhatsApp ou Discord.
 
-#Compra de Chaves
+# Compra de Chaves
 
 Para utilizar a API, primeiro é necessário adquirir uma chave de acesso.
 
@@ -58,7 +58,7 @@ response = requests.post(
 '''
 print(response)
 
-Resposta
+# Resposta
 
 A API retorna um JSON contendo a resposta da IA.
 
