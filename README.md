@@ -40,7 +40,7 @@ headers = {
 Exemplo de Uso (Python)
 
 Recomendo utilizar a biblioteca "requests".
-
+'''
 import requests
 import json
 
@@ -55,7 +55,7 @@ response = requests.post(
     headers=headers,
     data="oi"
 ).json()
-
+'''
 print(response)
 
 Resposta
