@@ -2,6 +2,7 @@
 Minha api que permite você ultilizar uma IA em seus projetos, no caso aqui fica a Documentação
 
 # API de IA
+Esta api ultiliza GPT 5.5
 
 # Documentação da API Redz IA
 
