@@ -82,5 +82,7 @@ print(response["choices"][0]["message"]["content"])
 # Contatos
 
 email: redandblue2235@gmail.com 
+
 whatsapp: +55 28 99986-5324
+
 discord: bloodofdeath
