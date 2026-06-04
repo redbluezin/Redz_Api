@@ -1,4 +1,4 @@
-
+ou
 Minha api que permite você ultilizar uma IA em seus projetos, no caso aqui fica a Documentação
 
 # API de IA
@@ -85,4 +85,6 @@ email: redandblue2235@gmail.com
 
 whatsapp: +55 28 99986-5324
 
-discord: bloodofdeath
+discord: @bloodofdeath
+
+instagram: @poringzin
