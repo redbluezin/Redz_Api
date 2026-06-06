@@ -20,7 +20,7 @@ Planos disponíveis:
 
 - 100 mensagens = R$2,00
 - 600 mensagens = R$7,00
-- 1000 mensagens = R$12,00
+- 1000 mensagens = R$20,00
 
 Após a confirmação do pagamento, sua chave será criada e enviada em alguns segundos ou minutos.
 
