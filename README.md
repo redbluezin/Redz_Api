@@ -28,6 +28,10 @@ URL da API
 
 https://redz.up.railway.app/api
 
+ou
+
+https://redzin.xyz/api
+
 Autenticação
 
 A autenticação é feita através do cabeçalho "Authorization".
